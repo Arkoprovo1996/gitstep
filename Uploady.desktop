@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Uploady
+Comment=A cloud with 10 GB of space
+Exec=firefox https://www.uploady.com/#!/myfiles/mxWKYfgseWA
+Icon=web-browser-symbolic
+Path=/home/arkoprovo1996/Downloads/Uploady/
+Terminal=false
+StartupNotify=false
